@@ -1,10 +1,10 @@
 # Bluetooth-manager
 a lightweight bluetooth library that manages contains all you need of CoreBluetooh, so you can focus on the UI
 <br>
-Version 1.0.0
-iOS >= 15.0
 
 ## Import to your project
+Version 1.0.0, iOS >= 15.0
+<br>
 Basically, adding a local Swift Package requires two steps:
 1.  Download the Bluetooth Library folder
 2.  Drag and drop the downloaded folder into your Xcode project or workspace.
