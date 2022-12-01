@@ -6,7 +6,7 @@ iOS >= 15.0
 
 ## Import to your project
 Basically, adding a local Swift Package requires two steps:
-1.  Download this Github folder
+1.  Download the Bluetooth Library folder
 2.  Drag and drop the downloaded folder into your Xcode project or workspace.
 3.  Add it to the `Frameworks, Libraries, and Embedded Content` section in app targets general pane.
 
