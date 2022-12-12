@@ -1,5 +1,5 @@
 # iOS Bluetooth-manager
-a lightweight bluetooth library that manages contains all you need of CoreBluetooh, so you can focus on the UI
+a lightweight bluetooth library that manages and minimize your workload on CoreBluetooh, so you can focus on the UI
 <br>
 
 ## Import to your project
