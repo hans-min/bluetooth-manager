@@ -1,4 +1,4 @@
-# Bluetooth-manager
+# iOS Bluetooth-manager
 a lightweight bluetooth library that manages contains all you need of CoreBluetooh, so you can focus on the UI
 <br>
 
